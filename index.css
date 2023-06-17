@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.header{
+  height: 5rem;
+  z-index: 10;
+  display: flex;
+  justify-content: center;
+}
+
+table{
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+  bor
+}
+
+th,td,tr,caption{
+  border:2px solid green;
+  
+};
